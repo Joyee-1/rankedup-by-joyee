@@ -172,7 +172,7 @@
   <p>We are a passionate squad of top-tier MLBB players offering affordable and professional rank boosting services. Led by Joyee, our mission is to help you climb effortlessly with style and speed!</p>
   <p>
     We are a squad led by Joyee, climbing ranks like legends. Want to see the magic? Follow the spark ✨  
-    <a href="https://youtube.com/@the.joyee.paradox" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.youtube.com/@the.joyee.paradox" target="_blank" rel="noopener noreferrer">
   🔮💜 Click only if you're curious 💜🔮
 </a>
   </p>
