@@ -190,7 +190,7 @@
   </div>
   <div class="price-card">
     <h3>🔥 Combo Offer</h3>
-    <p>Epic → Mythic = 3000৳ (Save 200৳!) and  if you set time then charge money will increase</p>
+    <p>Warrior → Mythic = 3000৳ (Save 200৳!) and  if you set time then charge money will increase</p>
     <button class="btn" onclick="contactNow()">Order Now</button>
   </div>
 </section>
