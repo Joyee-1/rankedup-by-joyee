@@ -182,9 +182,9 @@
   <h2>Boosting Packages</h2>
   <div class="price-card">
     <h3>🎮 Regular Package</h3>
-    <p>Warrior to Master = 300৳</p>
-    <p>Master to Epic = 500৳</p>
-    <p>Epic to Mythic = 800৳</p>
+    <p>Warrior to Master = 300৳ per level</p>
+    <p>Master to Epic = 500৳ per level</p>
+    <p>Epic to Mythic = 800৳ per level</p>
     <p>Based on time charge money can increase</p>
     <button class="btn" onclick="contactNow()">Order Now</button>
   </div>
